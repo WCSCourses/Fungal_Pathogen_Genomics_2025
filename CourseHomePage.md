@@ -1,33 +1,28 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# Add Course Title
+# Fungal Pathogen Genomics 
 
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
 [Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
 
-Add one line description of the course (the same needs to be added on the right side of the page in the description)
+### Course overview
 
-### Summary
+The kingdom of Fungi encompasses a diverse range of organisms adapted to various environmental niches, playing crucial roles in ecosystems, human/animal/plant health, and global food security. Species like Fusarium, Pyricularia, Ustilago, Puccinia, and Zymoseptoria, etc. threaten agricultural ecosystems and food security worldwide. Fungal pathogens such as Aspergillus, Candida, Mucor, Cryptococcus, Histoplasma, Coccidioides, Batrachochytrium, and others are of great concern for medical and veterinary professionals due to their potential to cause allergies, illnesses, and life-threatening infections. Furthermore, fungi serve as essential model systems in basic and applied research and play pivotal roles in biotechnology, food production, biomedical and pharmaceutical research and the biofuel industry.
 
-Add text here
+High-throughput ‘omics’ data technologies empower scientists to conduct extensive analyses of the genomes, transcriptomes, proteomes, genetic variance data of a wide array of fungal and oomycete organisms. These analyses are essential for inquiries regarding pathogenicity, host-pathogen interactions, and the discovery of novel drug targets. To enhance accessibility and re-use of data, and facilitate analysis of different types of data, several web-based bioinformatic resources have been developed.
 
-### Target Audience
+This week-long course represents a collaborative teaching effort involving the following resources dedicated to supporting research on fungal and oomycete species:
 
-Add text here
-
-### Learning outcomes
-
-Add text here
-
-### Programme
-
-Add text here
+- FungiDB/VEuPathDB
+- Ensembl Fungi
+- SGD/CGD
+- MycoCosm/JGI
 
 **Course Runs**      
 
 | Course Date | Course Title | Location |Citation DOI |
 |-------------|--------------|----------|-------------|
-| Add Course Run Dates  | [Add Course Run Title](Add Github Repository link) | Location|Citation DOI |
+| 2–7 June 2024 | [Fungal Pathogen Genomics](https://github.com/WCSCourses/Fungal_Pathogen_Genomics) | Wellcome Genome Campus, Hinxton |Citation DOI |
 
 ******
 
