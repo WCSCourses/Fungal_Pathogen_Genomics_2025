@@ -26,13 +26,9 @@ This week-long course represents a collaborative teaching effort involving the f
 - [Evelina Basenko](https://www.liverpool.ac.uk/integrative-biology/staff/evelina-basenko/), University of Liverpool, UK
 
 **Course Instructors**  
-- [David Roos](https://www.bio.upenn.edu/people/david-s-roos), University of Pennsylvania, USA
-- [Nishadi De Silva](https://www.ebi.ac.uk/about/people/nishadi-de-silva), EMBL-EBI, UK
-- [Evelina Basenko](https://www.liverpool.ac.uk/integrative-biology/staff/evelina-basenko/), University of Liverpool, UK
 - [Jodi Lew-Smith](http://www.candidagenome.org/staff.shtml), Stanford University, USA
 - [Steven Ahrendt](https://mycocosm.jgi.doe.gov/mycocosm/home), US DOE Joint Genome Institute, USA
 - [Kathryn Crouch](https://www.gla.ac.uk/schools/infectionimmunity/staff/kathryncrouch/), University of Glasgow, UK
-- [Nishadi De Silva](https://www.ebi.ac.uk/about/people/nishadi-de-silva), EMBL-EBI, UK
 - [Manuel Carbajo Martinez](https://www.ebi.ac.uk/people/person/manuel-carbajo-martinez/), EMBL-EBI, UK
 - [Stuart Brown](https://veupathdb.org/veupathdb/app/static-content/personnel.html), University of Pennsylvania, USA
 - [Louisse Mirabueno](https://www.ebi.ac.uk/people/person/louisse-mirabueno/), EMBL-EBI, UK
