@@ -2,14 +2,15 @@
 
 # Fungal Pathogen Genomics 
 
-### 2–7 June 2024, Wellcome Genome Campus, Hinxton
+### 2–6 June 2025, Virtual Course
 
-[Wellcome Connecting Science Course Run Website](https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20240602/) <br /> 
-[Course Time Table 2024](https://github.com/WCSCourses/Fungal_Pathogen_Genomics/blob/main/course_information/Masterplanner_Final%202024%20Timetable.pdf) <br /> 
+[Wellcome Connecting Science Course Run Website](https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-virtual-20250602/) <br /> 
+[Course Time Table 2025](coming soon) <br /> 
+[Course Informatics Guide](Add link here)
 
 ### Course overview
 
-The kingdom of Fungi encompasses a diverse range of organisms adapted to various environmental niches, playing crucial roles in ecosystems, human/animal/plant health, and global food security. Species like Fusarium, Pyricularia, Ustilago, Puccinia, and Zymoseptoria, etc. threaten agricultural ecosystems and food security worldwide. Fungal pathogens such as Aspergillus, Candida, Mucor, Cryptococcus, Histoplasma, Coccidioides, Batrachochytrium, and others are of great concern for medical and veterinary professionals due to their potential to cause allergies, illnesses, and life-threatening infections. Furthermore, fungi serve as essential model systems in basic and applied research and play pivotal roles in biotechnology, food production, biomedical and pharmaceutical research and the biofuel industry.
+The kingdom of Fungi encompasses a diverse range of organisms adapted to various environmental niches, playing crucial roles in ecosystems, human/animal/plant health, and global food security. Species like *Fusarium, Pyricularia, Ustilago, Puccinia, and Zymoseptoria, etc.* threaten agricultural ecosystems and food security worldwide. Fungal pathogens such as *Aspergillus, Candida, Mucor, Cryptococcus, Histoplasma, Coccidioides, Batrachochytrium,* and others are of great concern for medical and veterinary professionals due to their potential to cause allergies, illnesses, and life-threatening infections. Furthermore, fungi serve as essential model systems in basic and applied research and play pivotal roles in biotechnology, food production, biomedical and pharmaceutical research and the biofuel industry.
 
 High-throughput ‘omics’ data technologies empower scientists to conduct extensive analyses of the genomes, transcriptomes, proteomes, genetic variance data of a wide array of fungal and oomycete organisms. These analyses are essential for inquiries regarding pathogenicity, host-pathogen interactions, and the discovery of novel drug targets. To enhance accessibility and re-use of data, and facilitate analysis of different types of data, several web-based bioinformatic resources have been developed.
 
@@ -19,6 +20,22 @@ This week-long course represents a collaborative teaching effort involving the f
 - Ensembl Fungi
 - SGD/CGD
 - MycoCosm/JGI
+
+The Fungal Pathogen Genomics course offers hands-on training on how to use unique, web-based tools provided by individual resources and apply them to both public and private datasets. Participants will learn to formulate testable hypotheses and explore genomes, functional omics datasets (transcriptomics, SNP, proteomics, etc.) and other data types across multiple databases.
+
+### Learning Objectives
+
+After attending this course, participants will be able to:
+
+- Navigate each database and answer research questions by creating custom queries across multiple bioinformatics resources.
+- Utilise built-in web-based bioinformatics tools to mine omics data, including:
+  - finding genes
+  - identifying orthologs in other species via orthologous transformations
+  - determining trends through GO and metabolic pathway enrichment analysis
+  - visualizing genomics, proteomics, and transcriptomics data
+- Gain an understanding of the practical advantages and limitations of the tools used in bioinformatics, ensuring that the skills acquired are pertinent to their research and future endeavors.
+- Develop skills and knowledge necessary to actively contribute to community genome curation and annotation efforts.
+- Apply their newfound skills in web-based bioinformatic resources in their research projects.
   
 **Course organisers**
 - [David Roos](https://www.bio.upenn.edu/people/david-s-roos), University of Pennsylvania, USA
@@ -27,7 +44,7 @@ This week-long course represents a collaborative teaching effort involving the f
 
 **Course Instructors**  
 - [Jodi Lew-Smith](http://www.candidagenome.org/staff.shtml), Stanford University, USA
-- [Steven Ahrendt](https://mycocosm.jgi.doe.gov/mycocosm/home), US DOE Joint Genome Institute, USA
+- [Richard Hayes](https://mycocosm.jgi.doe.gov/), US DOE Joint Genome Institute, USA
 - [Kathryn Crouch](https://www.gla.ac.uk/schools/infectionimmunity/staff/kathryncrouch/), University of Glasgow, UK
 - [Manuel Carbajo Martinez](https://www.ebi.ac.uk/people/person/manuel-carbajo-martinez/), EMBL-EBI, UK
 - [Stuart Brown](https://veupathdb.org/veupathdb/app/static-content/personnel.html), University of Pennsylvania, USA
